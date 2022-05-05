@@ -1,0 +1,28 @@
+.onediv{
+border: 3px;
+padding: 20px;
+}
+
+.smalldiv{
+width: 50%;
+padding: 20px;
+float: left;
+padding-left: 50px;
+}
+
+.smalldiv2{
+    /* width: 40%; */
+    padding: 20px;
+    float: left;
+    }
+
+.button{
+    margin-top: 1%;
+    margin-left: 80%;
+}
+
+h4{
+  color: green;
+  text-decoration: underline;
+  
+}
